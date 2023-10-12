@@ -1,0 +1,162 @@
+#n1{
+  font-family:"Trebuchet MS";
+  font-size:22px;
+  font-weight:600;
+  color:lightgrey;
+}
+#nav1{
+  background-color:#232B2B;
+  height:60px;
+}
+#n2,#n3,#n4,#n5{
+  font-size:16.5px;
+  font-weight:600;
+  color:lightgrey;
+}
+#head1{
+  padding-top:80px;
+  height:300px;
+  font-weight:650px;
+  font-style:italic;
+  font-family:Trebuchet MS;
+  color:#5A5A5A;
+  background-image: url('F:/REACTJS_S/frontend6/src/images/z-s-CdlDVEY6pcU-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#c1{
+  filter:brightness(50%);
+  width:420px;
+  height:310px;
+}
+#c2{
+  padding-top:25px;
+  padding-bottom:10px;
+  font-family:Trebuchet MS;
+  font-style:italic;
+}
+#im{
+  width:30%;
+}
+#m1{
+  display:inline-block;
+}
+#f1{
+  padding-top : 30px;
+  background-color:black;
+}
+.in1{
+  width:140%;
+  border-radius:5px;
+}
+.lab{
+  font-family:Trebuchet MS;
+  font-size:20px;
+  color:white;
+}
+#msg{
+  color:lightgrey;
+  font-style:italic;
+}
+#ta{
+  width:146%;
+  border-radius:5px;
+}
+.lab2{
+  font-weight: 600;
+  font-size:22px;
+  color:#232B2B;
+  font-style:italic;
+}
+.lab3{
+  font-size:20px;
+  font-weight:400;
+  color:white;
+  font-style:italic;
+}
+#con{
+  padding-left:30px;
+  padding-top:30px;
+  padding-bottom:30px;
+  font-family:Trebuchet MS;
+  background-color: #999999;
+}
+.ib{
+  display:inline-flex;
+}
+#abt{
+  font-weight:600;
+  font-family:Trebuchet MS;
+  padding-left:30px;
+  background-color:#999999;
+  color:white;
+  font-style:italic;
+}
+#sel{
+  font-weight:800;
+  font-family:Trebuchet MS;
+  font-style:italic;
+  color:#232B2B;
+}
+
+#pro1{
+  text-align:left;
+  background-color:#111111;
+  color:white;
+  padding-bottom:20px;
+  padding-top:20px;
+  padding-left:10px;
+}
+#pro2{
+
+  background-color:#333333;
+  text-align:left;
+  color:white;
+  padding-bottom:20px;
+  padding-top:20px;
+  padding-left:10px;
+}
+#pro3{
+  background-color:#555555;
+  text-align:left;
+  color:white;
+  padding-bottom:20px;
+  padding-top:20px;
+  padding-left:10px;
+}
+.p2{
+  font-weight: 600;
+  font-size:25px;
+  font-family: Trebuchet MS;
+  font-style:italic;
+}
+.p3{
+  font-size:23px;
+  font-weight:400;
+  font-family:Trebuchet MS;
+  font-style:italic;
+}
+#ph{
+  font-weight:800;
+  font-family:Trebuchet MS;
+  font-style:italic;
+  padding-left:10px;
+}
+#cd{
+  font-weight:800;
+  font-family:Trebuchet MS;
+  font-style:italic;
+  color:#232B2B;
+}
+#sub{
+  font-family:Trebuchet MS;
+  font-style:italic;
+  padding-left:10px;
+}
+#al1{
+  color:white;
+}
+#al2{
+  color:#232B2B;
+}
