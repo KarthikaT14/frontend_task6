@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/frontend_task6/static/css/main.db816c4e.css",
+    "main.js": "/frontend_task6/static/js/main.2b5b9c1f.js",
+    "static/js/787.a5bfe3a7.chunk.js": "/frontend_task6/static/js/787.a5bfe3a7.chunk.js",
+    "static/media/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg": "/frontend_task6/static/media/kaitlyn-baker-vZJdYl5JVXY-unsplash.affcdf079177950d3158.jpg",
+    "static/media/z-s-CdlDVEY6pcU-unsplash.jpg": "/frontend_task6/static/media/z-s-CdlDVEY6pcU-unsplash.d8d5280a42bdb4c2770e.jpg",
+    "index.html": "/frontend_task6/index.html",
+    "main.db816c4e.css.map": "/frontend_task6/static/css/main.db816c4e.css.map",
+    "main.2b5b9c1f.js.map": "/frontend_task6/static/js/main.2b5b9c1f.js.map",
+    "787.a5bfe3a7.chunk.js.map": "/frontend_task6/static/js/787.a5bfe3a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db816c4e.css",
+    "static/js/main.2b5b9c1f.js"
+  ]
+}
