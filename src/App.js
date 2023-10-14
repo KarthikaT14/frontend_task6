@@ -5,8 +5,8 @@ import { Footer } from './components/Footer';
 import Nav from './components/Nav';
 import { HashRouter, Routes, Route } from "react-router-dom";
 import { Home, About, Projects, Contact } from "./components/Main";
-import 'F:/REACTJS_S/frontend6/src/images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg';
-import 'F:/REACTJS_S/frontend6/src/images/z-s-CdlDVEY6pcU-unsplash.jpg';
+import 'F:/REACTJS/frontend6/src/images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg';
+import 'F:/REACTJS/frontend6/src/images/z-s-CdlDVEY6pcU-unsplash.jpg';
 
 function App() {
   return (

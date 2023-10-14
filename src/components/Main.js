@@ -1,4 +1,4 @@
-import img from 'F:/REACTJS_S/frontend6/src/images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg';
+import img from 'F:/REACTJS/frontend6/src/images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg';
 export function Home()
 {
     return(
