@@ -3,10 +3,10 @@ export function Home()
 {
     return(
         <div class="row">
-            <div id="im" class="col-sm-12 col-md-6 col-lg-4">
+            <div id="im" class="col-sm-12 col-md-12 col-lg-4">
                 <img id="c1" src={img} />
             </div>
-            <div id="c2" class="col-sm-12 col-md-6 col-lg-7">
+            <div id="c2" class="col-sm-12 col-md-12 col-lg-7">
                 <h5>Hey there! This is Karthika..</h5>
                 <br/>
                 <h5>In my portfolio, you will find a selection of my work, including personal projects, open source contributions, and academic coursework.</h5>
