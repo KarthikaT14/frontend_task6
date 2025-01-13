@@ -79,36 +79,36 @@ export function About()
 export function Projects()
 {
     return(
-        <div id="pro" class="col-sm-12 col-md-6 col-lg-12">
-    <br />
-    <h2 id="ph">The Projects Section</h2>
-    <h5 id="sub">(More details in the About section, where I have uploaded my resume as well..)</h5>
-    <br />
-
-    <div id="pro1">
-        <h3 class="p2">
-            Employee Time Tracking System &ensp;
-        </h3>
+            <div id="pro" class="col-sm-12 col-md-6 col-lg-12">
         <br />
-        <h3 class="p3">
-            Built "Timely," an Employee Time Tracking System using the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS). 
-            This project, completed from September 2023 to December 2023, showcased my ability to develop scalable web applications 
-            and collaborate effectively in modern technology environments. <a href="#">(Demo)</a>
-        </h3>
-    </div>
-
-    <div id="pro2">
-        <h3 class="p2">
-            Stock Price Analyzer &ensp;
-        </h3>
+        <h2 id="ph">The Projects Section</h2>
+        <h5 id="sub">(More details in the About section, where I have uploaded my resume as well..)</h5>
         <br />
-        <h3 class="p3">
-            Built an interactive web app for stock price analysis using Python, Streamlit, and SVR models during July 2023 - August 2023. 
-            Integrated Yahoo Finance API for data, utilized pandas for manipulation, and Plotly for interactive visualizations. 
-            The app includes features like 52-week highs/lows, moving averages, financial metrics, and the ability to compare 
-            stock futures of two companies for enhanced user experience.
-        </h3>
-    </div>
+    
+        <div id="pro1">
+            <h3 class="p2">
+                Employee Time Tracking System &ensp;
+            </h3>
+            <br />
+            <h3 class="p3">
+                Built "Timely," an Employee Time Tracking System using the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS). 
+                This project, completed from September 2023 to December 2023, showcased my ability to develop scalable web applications 
+                and collaborate effectively in modern technology environments. <a href="#">(Demo)</a>
+            </h3>
+        </div>
+    
+        <div id="pro2">
+            <h3 class="p2">
+                Stock Price Analyzer &ensp;
+            </h3>
+            <br />
+            <h3 class="p3">
+                Built an interactive web app for stock price analysis using Python, Streamlit, and SVR models during July 2023 - August 2023. 
+                Integrated Yahoo Finance API for data, utilized pandas for manipulation, and Plotly for interactive visualizations. 
+                The app includes features like 52-week highs/lows, moving averages, financial metrics, and the ability to compare 
+                stock futures of two companies for enhanced user experience.
+            </h3>
+        </div>
 
     <br /><br />
 </div>
