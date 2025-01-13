@@ -40,7 +40,7 @@ export function Contact()
                     Linkedin:&ensp;
                 </h3>
                 <h3 class="lab3">
-                    <a id="al1" href="https://www.linkedin.com/in/karthika-thota-746363270/">Linkedin Profile URL</a>
+                    <a id="al1" href="https://www.linkedin.com/in/karthika-thota/">Linkedin Profile URL</a>
                 </h3>
             </div>
             <br/>
@@ -93,7 +93,7 @@ export function Projects()
             <h3 class="p3">
                 Built "Timely," an Employee Time Tracking System using the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS). 
                 This project, completed from September 2023 to December 2023, showcased my ability to develop scalable web applications 
-                and collaborate effectively in modern technology environments. <a href="#">(Demo)</a>
+                and collaborate effectively in modern technology environments. 
             </h3>
         </div>
     
