@@ -11,7 +11,7 @@ export function Home()
                 <br/>
                 <h5>In my portfolio, you will find a selection of my work, including personal projects, open source contributions, and academic coursework.</h5>
                 <br/>
-                <h5>I am proficient in a variety of programming languages and technologies, including Python, JavaScript, React, and Node.js.</h5>
+                <h5>I am proficient in a variety of programming languages and technologies, including Java, Python, JavaScript, React, and Node.js.</h5>
                 <br/>
                 <h5>I hope that my portfolio will give you a good sense of my skills and experience, and that you'll consider me for your next software engineering project.</h5>
             </div>
@@ -69,7 +69,7 @@ export function About()
             <h4>I have listed out my professional and personal accomplishments, skills, and hobbies in my resume attached below..</h4>
             <br/>
             <h4>Resume Link:
-                <a id="al2" href="https://olive-tonia-62.tiiny.site/">My resume</a>
+                <a id="al2" href="https://karthika-resume.tiiny.site/">My resume</a>
             </h4>
             <br/><br/>
         </div>
@@ -80,41 +80,38 @@ export function Projects()
 {
     return(
         <div id="pro" class="col-sm-12 col-md-6 col-lg-12">
-            <br/>
-            <h2 id="ph">The Projects Section</h2>
-            <h5 id="sub">(More details in the About section, where I have uploaded my resume as well..)</h5>
-            <br/>
-            <div id="pro1">
-                <h3 class="p2">
-                    House Price Prediction&ensp;
-                </h3>
-                <br/>
-                <h3 class="p3">
-                    I had worked on this project as a part of my internship with the Skill Vertex Organization in the months of January and February of 2023.
-                </h3>
-            </div>
+    <br />
+    <h2 id="ph">The Projects Section</h2>
+    <h5 id="sub">(More details in the About section, where I have uploaded my resume as well..)</h5>
+    <br />
 
-            <div id="pro2">
-                <h3 class="p2">
-                    Language Detection&ensp;
-                </h3>
-                <br/>
-                <h3 class="p3">
-                    This project which involves Natural Language Processing was also done as a part of my Skill Vertex Internship.
-                </h3>
-            </div>
-            
-
-            <div id="pro3">
-                <h3 class="p2">
-                    Stock Price Prediction&ensp;
-                </h3>
-                <br/>
-                <h3 class="p3">
-                    I am currently working on this project, which involves the utilization of the yfinance module, making accurate prediction using Linear Regression and finally displaying the analytics over the Streamlit platform.
-                </h3>
-            </div>
-            <br/><br/>
+    <div id="pro1">
+        <h3 class="p2">
+            Employee Time Tracking System &ensp;
+        </h3>
+        <br />
+        <h3 class="p3">
+            Built "Timely," an Employee Time Tracking System using the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS). 
+            This project, completed from September 2023 to December 2023, showcased my ability to develop scalable web applications 
+            and collaborate effectively in modern technology environments. <a href="#">(Demo)</a>
+        </h3>
     </div>
+
+    <div id="pro2">
+        <h3 class="p2">
+            Stock Price Analyzer &ensp;
+        </h3>
+        <br />
+        <h3 class="p3">
+            Built an interactive web app for stock price analysis using Python, Streamlit, and SVR models during July 2023 - August 2023. 
+            Integrated Yahoo Finance API for data, utilized pandas for manipulation, and Plotly for interactive visualizations. 
+            The app includes features like 52-week highs/lows, moving averages, financial metrics, and the ability to compare 
+            stock futures of two companies for enhanced user experience.
+        </h3>
+    </div>
+
+    <br /><br />
+</div>
+
     )
 }
